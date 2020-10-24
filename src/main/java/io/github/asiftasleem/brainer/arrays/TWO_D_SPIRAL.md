@@ -1,4 +1,4 @@
-###Two Dimensional Spiral
+### Two Dimensional Spiral
 
 To perceive a solution to this problem, think a virtual boundary that confines the left/top and right/bottom.
 It is first out side the 2D Array.
